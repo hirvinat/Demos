@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\bin\Release\netcoreapp2.2\pryDemoCrudWebApi.deps.json
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\bin\Release\netcoreapp2.2\pryDemoCrudWebApi.runtimeconfig.json
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\bin\Release\netcoreapp2.2\pryDemoCrudWebApi.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\bin\Release\netcoreapp2.2\pryDemoCrudWebApi.dll
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\bin\Release\netcoreapp2.2\pryDemoCrudWebApi.pdb
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\obj\Release\netcoreapp2.2\pryDemoCrudWebApi.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\obj\Release\netcoreapp2.2\pryDemoCrudWebApi.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\obj\Release\netcoreapp2.2\pryDemoCrudWebApi.RazorAssemblyInfo.cache
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\obj\Release\netcoreapp2.2\pryDemoCrudWebApi.RazorAssemblyInfo.cs
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\obj\Release\netcoreapp2.2\pryDemoCrudWebApi.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\obj\Release\netcoreapp2.2\pryDemoCrudWebApi.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\obj\Release\netcoreapp2.2\pryDemoCrudWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\obj\Release\netcoreapp2.2\pryDemoCrudWebApi.dll
+C:\Users\USUARIO\source\repos\pryDemoCrudWebApi\pryDemoCrudWebApi\obj\Release\netcoreapp2.2\pryDemoCrudWebApi.pdb
